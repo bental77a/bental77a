@@ -1,4 +1,4 @@
-![Senku](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/senku-gif.gif)
+![Senku](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/senku-gif.gif)
 
 ## root:~$ whoami
 >  1337 Student \
