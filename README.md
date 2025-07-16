@@ -1,5 +1,6 @@
+<p align="center">  
 ![Senku](https://github.com/bental77a/my_prfile/blob/main/fire%20manga%20GIF%20by%20mannyjammy.gif)
-
+</p>
 ## root:~$ whoami
 >  1337 Student \
 >  "Feel like giving up? Good. That means the real work is about to begin" - Senku
