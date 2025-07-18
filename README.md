@@ -20,7 +20,7 @@
 │
 ├─◈ <a href="https://www.linkedin.com/in/bental77a/">LinkedIn</a>
 ├─◈ Discord: _dash
-├─◈ <a herf="https://www.reddit.com/user/Ok_Inspector_2784/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">reddit<\a>
+├─◈ <a herf="https://www.reddit.com/user/Ok_Inspector_2784/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">reddit</a>
 │
 └────────────────────────────▰▰▰
 
